@@ -1,0 +1,145 @@
+baseurl = "https://www.ebodera.com/"
+title = "@ebodera"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "monokailight"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Emanuel Boderash"
+    info = "Software Engineer"
+    description = "Personal Website"
+    keywords = "blog,developer,personal,ctf,writeup,writeups,ebodera,emanuel,boderash,emanuelboderash"
+    avatarurl = "images/avatar.jpg"
+
+    # favicon_32 = "/img/favicon-32x32.png"
+    # favicon_16 = "/img/favicon-16x16.png"
+
+    #footercontent = "Enter a text here."
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/emanuelboderash"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 2
+    url = "https://instagram.com/emanuelboderash"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 3
+    url = "https://medium.com/@emanuelboderash"
+[[params.social]]
+    name = "Discord"
+    icon = "fab fa-discord fa-2x"
+    weight = 4
+    url = "https://discord.com/users/507747105763360778"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 5
+    url = "https://github.com/ebodera/"
+[[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase fa-2x"
+    weight = 6
+    url = "https://keybase.io/ebodera"
+# [[params.social]]
+#     name = "LinkedIn"
+#     icon = "fab fa-linkedin fa-2x"
+#     weight = 6
+#     url = "https://linkedin.com/in/ebodera"
+[[params.social]]
+    name = "Nifty"
+    icon = "fas fa-palette fa-2x"
+    weight = 7
+    url = "https://niftygateway.com/profile/ebodera"
+[[params.social]]
+    name = "Goodreads"
+    icon = "fab fa-goodreads fa-2x"
+    weight = 8
+    url = "https://www.goodreads.com/ebodera"
+[[params.social]]
+    name = "Spotify"
+    icon = "fab fa-spotify fa-2x"
+    weight = 9
+    url = "https://open.spotify.com/user/vuaizj773768ct2l22f1p6wag"
+[[params.social]]
+    name = "Soundcloud"
+    icon = "fab fa-soundcloud fa-2x"
+    weight = 10
+    url = "https://soundcloud.com/ebodera"
+[[params.social]]
+    name = "Letterboxd"
+    icon = "fas fa-film fa-2x"
+    weight = 11
+    url = "https://letterboxd.com/ebodera"
+[[params.social]]
+    name = "Lifting Database"
+    icon = "fas fa-dumbbell fa-2x"
+    weight = 12
+    url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
+[[params.social]]
+    name = "Bitcoin"
+    icon = "fab fa-bitcoin fa-2x"
+    weight = 13
+    url = "/btc/"
+[[params.social]]
+    name = "Ethereum"
+    icon = "fab fa-ethereum fa-2x"
+    weight = 14
+    url = "/eth/"
+[[params.social]]
+    name = "PayPal"
+    icon = "fab fa-paypal fa-2x"
+    weight = 15
+    url = "https://paypal.me/eboderas"
+[[params.social]]
+    name = "Venmo"
+    icon = "fas fa-comments-dollar fa-2x"
+    weight = 16
+    url = "https://venmo.com/ebodera"
+[[params.social]]
+    name = "Cash App"
+    icon = "fas fa-dollar-sign fa-2x"
+    weight = 17
+    url = "https://cash.app/$ebodera"
+[[params.social]]
+    name = "Patreon"
+    icon = "fab fa-patreon fa-2x"
+    weight = 18
+    url = "https://patreon.com/emanuelboderash"
+
+# Menu links
+[[menu.main]]
+    name = "Projects"
+    weight = 1
+    url = "/projects/"
+[[menu.main]]
+    name = "Write-ups"
+    weight = 2
+    url = "/writeups/"
+[[menu.main]]
+    name = "Resume"
+    weight = 3
+    url = "https://resume.ebodera.com"
