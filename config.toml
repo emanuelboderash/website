@@ -78,7 +78,7 @@ pygmentscodefencesguesssyntax = true
     name = "Goodreads"
     icon = "fab fa-goodreads fa-2x"
     weight = 8
-    url = "https://www.goodreads.com/ebodera"
+    url = "https://www.goodreads.com/emanuelboderash"
 [[params.social]]
     name = "Spotify"
     icon = "fab fa-spotify fa-2x"
