@@ -58,7 +58,7 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 5
-    url = "https://github.com/ebodera/"
+    url = "https://github.com/emanuelboderash/"
 [[params.social]]
     name = "Keybase"
     icon = "fab fa-keybase fa-2x"
@@ -73,7 +73,7 @@ pygmentscodefencesguesssyntax = true
     name = "Nifty"
     icon = "fas fa-palette fa-2x"
     weight = 7
-    url = "https://niftygateway.com/profile/ebodera"
+    url = "https://niftygateway.com/profile/emanuelboderash"
 [[params.social]]
     name = "Goodreads"
     icon = "fab fa-goodreads fa-2x"
@@ -88,7 +88,7 @@ pygmentscodefencesguesssyntax = true
     name = "Soundcloud"
     icon = "fab fa-soundcloud fa-2x"
     weight = 10
-    url = "https://soundcloud.com/ebodera"
+    url = "https://soundcloud.com/emanuelboderash"
 [[params.social]]
     name = "Letterboxd"
     icon = "fas fa-film fa-2x"
@@ -118,12 +118,12 @@ pygmentscodefencesguesssyntax = true
     name = "Venmo"
     icon = "fas fa-comments-dollar fa-2x"
     weight = 16
-    url = "https://venmo.com/ebodera"
+    url = "https://venmo.com/emanuelboderash"
 [[params.social]]
     name = "Cash App"
     icon = "fas fa-dollar-sign fa-2x"
     weight = 17
-    url = "https://cash.app/$ebodera"
+    url = "https://cash.app/$emanuelboderash"
 [[params.social]]
     name = "Patreon"
     icon = "fab fa-patreon fa-2x"
