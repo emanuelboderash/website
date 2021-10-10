@@ -45,89 +45,94 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "https://instagram.com/emanuelboderash"
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium fa-2x"
+    name = "Snapchat"
+    icon = "fab fa-snapchat fa-2x"
     weight = 3
-    url = "https://medium.com/@emanuelboderash"
+    url = "https://snapchat.com/add/emanuelboderash"
 [[params.social]]
     name = "Discord"
     icon = "fab fa-discord fa-2x"
     weight = 4
     url = "https://discord.com/users/507747105763360778"
 [[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 5
+    url = "https://medium.com/@emanuelboderash"
+[[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
-    weight = 5
+    weight = 6
     url = "https://github.com/emanuelboderash/"
 [[params.social]]
     name = "Keybase"
     icon = "fab fa-keybase fa-2x"
-    weight = 6
+    weight = 7
     url = "https://keybase.io/ebodera"
 # [[params.social]]
 #     name = "LinkedIn"
 #     icon = "fab fa-linkedin fa-2x"
-#     weight = 6
+#     weight = 8
 #     url = "https://linkedin.com/in/ebodera"
 [[params.social]]
     name = "Nifty"
     icon = "fas fa-palette fa-2x"
-    weight = 7
+    weight = 8
     url = "https://niftygateway.com/profile/emanuelboderash"
 [[params.social]]
     name = "Goodreads"
     icon = "fab fa-goodreads fa-2x"
-    weight = 8
+    weight = 9
     url = "https://www.goodreads.com/emanuelboderash"
 [[params.social]]
     name = "Spotify"
     icon = "fab fa-spotify fa-2x"
-    weight = 9
+    weight = 10
     url = "https://open.spotify.com/user/vuaizj773768ct2l22f1p6wag"
 [[params.social]]
     name = "Soundcloud"
     icon = "fab fa-soundcloud fa-2x"
-    weight = 10
+    weight = 11
     url = "https://soundcloud.com/emanuelboderash"
 [[params.social]]
     name = "Letterboxd"
     icon = "fas fa-film fa-2x"
-    weight = 11
+    weight = 12
     url = "https://letterboxd.com/ebodera"
 [[params.social]]
     name = "Lifting Database"
     icon = "fas fa-dumbbell fa-2x"
-    weight = 12
+    weight = 13
     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
 [[params.social]]
     name = "Bitcoin"
     icon = "fab fa-bitcoin fa-2x"
-    weight = 13
+    weight = 14
     url = "/btc/"
 [[params.social]]
     name = "Ethereum"
     icon = "fab fa-ethereum fa-2x"
-    weight = 14
+    weight = 15
     url = "/eth/"
 [[params.social]]
     name = "PayPal"
     icon = "fab fa-paypal fa-2x"
-    weight = 15
+    weight = 16
     url = "https://paypal.me/eboderas"
 [[params.social]]
     name = "Venmo"
     icon = "fas fa-comments-dollar fa-2x"
-    weight = 16
+    weight = 17
     url = "https://venmo.com/emanuelboderash"
 [[params.social]]
     name = "Cash App"
     icon = "fas fa-dollar-sign fa-2x"
-    weight = 17
+    weight = 18
     url = "https://cash.app/$emanuelboderash"
 [[params.social]]
     name = "Patreon"
     icon = "fab fa-patreon fa-2x"
-    weight = 18
+    weight = 19
     url = "https://patreon.com/emanuelboderash"
 
 # Menu links
