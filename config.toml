@@ -1,5 +1,5 @@
-baseurl = "https://www.emanuelboderash.com/"
-title = "@emanuelboderash"
+baseurl = "https://www.ebodera.com/"
+title = "@ebodera"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -147,4 +147,4 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
     name = "Resume"
     weight = 3
-    url = "https://resume.emanuelboderash.com"
+    url = "https://resume.ebodera.com"
