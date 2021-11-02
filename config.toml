@@ -115,24 +115,29 @@ pygmentscodefencesguesssyntax = true
     weight = 15
     url = "/eth/"
 [[params.social]]
+    name = "Monero"
+    icon = "fab fa-monero fa-2x"
+    weight = 16
+    url = "/xmr/"
+[[params.social]]
     name = "PayPal"
     icon = "fab fa-paypal fa-2x"
-    weight = 16
+    weight = 17
     url = "https://paypal.me/eboderas"
 [[params.social]]
     name = "Venmo"
     icon = "fas fa-comments-dollar fa-2x"
-    weight = 17
+    weight = 18
     url = "https://venmo.com/emanuelboderash"
 [[params.social]]
     name = "Cash App"
     icon = "fas fa-dollar-sign fa-2x"
-    weight = 18
+    weight = 19
     url = "https://cash.app/$emanuelboderash"
 [[params.social]]
     name = "Patreon"
     icon = "fab fa-patreon fa-2x"
-    weight = 19
+    weight = 20
     url = "https://patreon.com/emanuelboderash"
 
 # Menu links
