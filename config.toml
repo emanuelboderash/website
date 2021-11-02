@@ -106,38 +106,43 @@ pygmentscodefencesguesssyntax = true
     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
 [[params.social]]
     name = "Bitcoin"
-    icon = "fab fa-bitcoin fa-2x"
+    icon = "fas fa-bolt fa-2x"
     weight = 14
+    url = "https://strike.me/emanuelboderash"
+[[params.social]]
+    name = "Bitcoin"
+    icon = "fab fa-bitcoin fa-2x"
+    weight = 15
     url = "/btc/"
 [[params.social]]
     name = "Ethereum"
     icon = "fab fa-ethereum fa-2x"
-    weight = 15
+    weight = 16
     url = "/eth/"
 [[params.social]]
     name = "Monero"
     icon = "fab fa-monero fa-2x"
-    weight = 16
+    weight = 17
     url = "/xmr/"
 [[params.social]]
     name = "PayPal"
     icon = "fab fa-paypal fa-2x"
-    weight = 17
+    weight = 18
     url = "https://paypal.me/eboderas"
 [[params.social]]
     name = "Venmo"
     icon = "fas fa-comments-dollar fa-2x"
-    weight = 18
+    weight = 19
     url = "https://venmo.com/emanuelboderash"
 [[params.social]]
     name = "Cash App"
     icon = "fas fa-dollar-sign fa-2x"
-    weight = 19
+    weight = 20
     url = "https://cash.app/$emanuelboderash"
 [[params.social]]
     name = "Patreon"
     icon = "fab fa-patreon fa-2x"
-    weight = 20
+    weight = 21
     url = "https://patreon.com/emanuelboderash"
 
 # Menu links
