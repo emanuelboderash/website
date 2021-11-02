@@ -56,7 +56,7 @@ pygmentscodefencesguesssyntax = true
     url = "https://discord.com/users/507747105763360778"
 [[params.social]]
     name = "Medium"
-    icon = "fab fa-medium fa-2x"
+    icon = "fab fa-medium-m fa-2x"
     weight = 5
     url = "https://medium.com/@emanuelboderash"
 [[params.social]]
