@@ -105,7 +105,7 @@ pygmentscodefencesguesssyntax = true
     weight = 13
     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
 [[params.social]]
-    name = "Bitcoin"
+    name = "Strike"
     icon = "fa fa-bolt fa-2x"
     weight = 14
     url = "https://strike.me/emanuelboderash"
