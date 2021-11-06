@@ -4,7 +4,7 @@ slug = "writeups"
 type = "post"
 +++
 
-## pwnable.kr [{{< fa flag >}}](https://pwnable.kr/)
+## pwnable.kr [{{< fas flag >}}](https://pwnable.kr/)
 - [fd](pwnable.kr/fd/)
 - [collision](pwnable.kr/collision/)
 - [bof](pwnable.kr/bof/)
