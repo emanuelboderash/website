@@ -101,7 +101,7 @@ pygmentscodefencesguesssyntax = true
     url = "https://letterboxd.com/ebodera"
 [[params.social]]
     name = "Lifting Database"
-    icon = "fas fa-dumbbell fa-2x"
+    icon = "fa fa-list fa-2x"
     weight = 13
     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
 [[params.social]]
