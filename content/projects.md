@@ -4,7 +4,7 @@ slug = "projects"
 +++
 
 ## trade-bot [{{< fab github >}}](https://github.com/emanuelboderash/trade-bot)
-{{< fa code >}} Go, Alpaca
+{{< fas code >}} Go, Alpaca
 
 Bot that trades stocks using Alpaca API and custom algorithms, written in Go.
 
