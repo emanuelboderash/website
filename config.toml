@@ -75,10 +75,10 @@ pygmentscodefencesguesssyntax = true
 #     weight = 8
 #     url = "https://linkedin.com/in/ebodera"
 [[params.social]]
-    name = "Nifty"
+    name = "OpenSea"
     icon = "fa fa-paint-brush fa-2x"
     weight = 8
-    url = "https://niftygateway.com/profile/emanuelboderash"
+    url = "https://opensea.io/emanuelboderash"
 [[params.social]]
     name = "Goodreads"
     icon = "fa fa-book fa-2x"
@@ -101,7 +101,7 @@ pygmentscodefencesguesssyntax = true
     url = "https://letterboxd.com/ebodera"
 [[params.social]]
     name = "Lifting Database"
-    icon = "fa fa-list fa-2x"
+    icon = "fa fa-trophy fa-2x"
     weight = 13
     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
 [[params.social]]
