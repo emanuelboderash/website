@@ -3,13 +3,13 @@ title = "Projects"
 slug = "projects"
 +++
 
-## trade-bot [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/emanuelboderash/trade-bot)
-<i class="fa fa-code" aria-hidden="true"></i> Go, Alpaca
+## trade-bot [{{< fa github >}}](https://github.com/emanuelboderash/trade-bot)
+{{< fa code >}} Go, Alpaca
 
 Bot that trades stocks using Alpaca API and custom algorithms, written in Go.
 
-## pctf [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/emanuelboderash/pctf)
-<i class="fa fa-code" aria-hidden="true"></i> Python, angr, pwntools, scapy
+## pctf [{{< fa github >}}](https://github.com/emanuelboderash/pctf)
+{{< fa code >}} Python, angr, pwntools, scapy
 
 Tools for pctf from Software Security graduate course. System used in the attack/defense style ctf competition, comprising of several components:
 

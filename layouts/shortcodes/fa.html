@@ -1,6 +1,6 @@
 <!-- Load fontawesome only once per page -->
 {{ if not (.Page.Scratch.Get "fontawesomeLoaded") }}
   {{ .Page.Scratch.Set "fontawesomeLoaded" true }}
-  <script defer src="/fontawesome-all.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 {{ end }}
 <i class="fab {{ range $element := .Params }} fa-{{ $element }} {{ end }}"></i>
