@@ -1,5 +1,5 @@
 +++
-title = "Bitcoin"
+title = ""
 slug = "btc"
 +++
 
