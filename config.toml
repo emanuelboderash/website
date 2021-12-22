@@ -55,40 +55,40 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url = "https://discord.com/users/507747105763360778"
 [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 5
+    url = "https://linkedin.com/in/emanuelboderash"
+[[params.social]]
     name = "Keybase"
     icon = "fa fa-keybase fa-2x"
-    weight = 5
+    weight = 6
     url = "https://keybase.io/emanuelboderash"
 [[params.social]]
     name = "Github"
     icon = "fa fa-github fa-2x"
-    weight = 6
+    weight = 7
     url = "https://github.com/emanuelboderash/"
-# [[params.social]]
-#     name = "LinkedIn"
-#     icon = "fab fa-linkedin fa-2x"
-#     weight = 8
-#     url = "https://linkedin.com/in/ebodera"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium fa-2x"
-    weight = 7
+    weight = 8
     url = "https://medium.com/@emanuelboderash"
 [[params.social]]
     name = "OpenSea"
     icon = "fa fa-paint-brush fa-2x"
-    weight = 8
+    weight = 9
     url = "https://opensea.io/emanuelboderash"
 [[params.social]]
     name = "Goodreads"
     icon = "fa fa-book fa-2x"
-    weight = 9
-    url = "https://www.goodreads.com/emanuelboderash"
-[[params.social]]
-    name = "Spotify"
-    icon = "fa fa-spotify fa-2x"
     weight = 10
-    url = "https://open.spotify.com/user/vuaizj773768ct2l22f1p6wag"
+    url = "https://www.goodreads.com/emanuelboderash"
+# [[params.social]]
+#     name = "Spotify"
+#     icon = "fa fa-spotify fa-2x"
+#     weight = 10
+#     url = "https://open.spotify.com/user/vuaizj773768ct2l22f1p6wag"
 # [[params.social]]
 #     name = "Soundcloud"
 #     icon = "fa fa-soundcloud fa-2x"
@@ -142,7 +142,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Cash App"
     icon = "fa fa-usd fa-2x"
-    weight = 17
+    weight = 15
     url = "https://cash.app/$emanuelboderash"
 # [[params.social]]
 #     name = "Patreon"
