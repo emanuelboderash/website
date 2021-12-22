@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Ethereum"
 slug = "eth"
 +++
 
