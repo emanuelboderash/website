@@ -129,11 +129,11 @@ pygmentscodefencesguesssyntax = true
 #     icon = "fa fa-monero fa-2x"
 #     weight = 17
 #     url = "/xmr/"
-[[params.social]]
-    name = "PayPal"
-    icon = "fa fa-paypal fa-2x"
-    weight = 15
-    url = "https://paypal.me/eboderas"
+# [[params.social]]
+#     name = "PayPal"
+#     icon = "fa fa-paypal fa-2x"
+#     weight = 15
+#     url = "https://paypal.me/eboderas"
 # [[params.social]]
 #     name = "Venmo"
 #     icon = "fa fa-money fa-2x"
