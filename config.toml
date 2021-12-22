@@ -109,16 +109,16 @@ pygmentscodefencesguesssyntax = true
     icon = "fa fa-bolt fa-2x"
     weight = 14
     url = "https://strike.me/emanuelboderash"
-[[params.social]]
-    name = "Bitcoin"
-    icon = "fa fa-bitcoin fa-2x"
-    weight = 15
-    url = "/btc/"
-[[params.social]]
-    name = "Ethereum"
-    icon = "fa fa-ethereum fa-2x"
-    weight = 16
-    url = "/eth/"
+# [[params.social]]
+#     name = "Bitcoin"
+#     icon = "fa fa-bitcoin fa-2x"
+#     weight = 15
+#     url = "/btc/"
+# [[params.social]]
+#     name = "Ethereum"
+#     icon = "fa fa-ethereum fa-2x"
+#     weight = 16
+#     url = "/eth/"
 # [[params.social]]
 #     name = "Monero"
 #     icon = "fa fa-monero fa-2x"
