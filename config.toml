@@ -134,21 +134,21 @@ pygmentscodefencesguesssyntax = true
     icon = "fa fa-paypal fa-2x"
     weight = 15
     url = "https://paypal.me/eboderas"
-[[params.social]]
-    name = "Venmo"
-    icon = "fa fa-money fa-2x"
-    weight = 16
-    url = "https://venmo.com/emanuelboderash"
+# [[params.social]]
+#     name = "Venmo"
+#     icon = "fa fa-money fa-2x"
+#     weight = 16
+#     url = "https://venmo.com/emanuelboderash"
 [[params.social]]
     name = "Cash App"
     icon = "fa fa-usd fa-2x"
     weight = 17
     url = "https://cash.app/$emanuelboderash"
-[[params.social]]
-    name = "Patreon"
-    icon = "fa fa-patreon fa-2x"
-    weight = 18
-    url = "https://patreon.com/emanuelboderash"
+# [[params.social]]
+#     name = "Patreon"
+#     icon = "fa fa-patreon fa-2x"
+#     weight = 18
+#     url = "https://patreon.com/emanuelboderash"
 
 # Menu links
 [[menu.main]]
