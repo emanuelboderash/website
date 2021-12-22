@@ -55,25 +55,25 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url = "https://discord.com/users/507747105763360778"
 [[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium fa-2x"
+    name = "Keybase"
+    icon = "fa fa-keybase fa-2x"
     weight = 5
-    url = "https://medium.com/@emanuelboderash"
+    url = "https://keybase.io/emanuelboderash"
 [[params.social]]
     name = "Github"
     icon = "fa fa-github fa-2x"
     weight = 6
     url = "https://github.com/emanuelboderash/"
-[[params.social]]
-    name = "Keybase"
-    icon = "fa fa-keybase fa-2x"
-    weight = 7
-    url = "https://keybase.io/emanuelboderash"
 # [[params.social]]
 #     name = "LinkedIn"
 #     icon = "fab fa-linkedin fa-2x"
 #     weight = 8
 #     url = "https://linkedin.com/in/ebodera"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium fa-2x"
+    weight = 7
+    url = "https://medium.com/@emanuelboderash"
 [[params.social]]
     name = "OpenSea"
     icon = "fa fa-paint-brush fa-2x"
