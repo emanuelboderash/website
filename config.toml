@@ -50,9 +50,14 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://snapchat.com/add/emanuelboderash"
 [[params.social]]
+    name = "Telegram"
+    icon = "fa fa-telegram fa-2x"
+    weight = 4
+    url = "https://t.me/emanuelboderash"
+[[params.social]]
     name = "Discord"
     icon = "fa fa-discord-alt fa-2x"
-    weight = 4
+    weight = 5
     url = "https://discord.com/users/507747105763360778"
 # [[params.social]]
 #     name = "LinkedIn"
@@ -62,48 +67,48 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Keybase"
     icon = "fa fa-keybase fa-2x"
-    weight = 5
+    weight = 6
     url = "https://keybase.io/emanuelboderash"
 [[params.social]]
     name = "Github"
     icon = "fa fa-github fa-2x"
-    weight = 6
+    weight = 7
     url = "https://github.com/emanuelboderash/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium fa-2x"
-    weight = 7
+    weight = 8
     url = "https://medium.com/@emanuelboderash"
 [[params.social]]
     name = "Notion"
     icon = "fa fa-cube fa-2x"
-    weight = 8
+    weight = 9
     url = "https://emanuelboderash.notion.site/6dd62dd1699c435e86a20bd000dc4619?v=76d37caa61364d11a687924d76ba9a38"
 [[params.social]]
     name = "Cyber"
     icon = "fa fa-paint-brush fa-2x"
-    weight = 9
+    weight = 10
     url = "https://oncyber.io/@0x1eb5f6d2388b2dee3505334e4aeb96728a757b2b"
 [[params.social]]
     name = "Goodreads"
     icon = "fa fa-book fa-2x"
-    weight = 10
+    weight = 11
     url = "https://www.goodreads.com/emanuelboderash"
 # [[params.social]]
 #     name = "Spotify"
 #     icon = "fa fa-spotify fa-2x"
-#     weight = 10
+#     weight = 11
 #     url = "https://open.spotify.com/user/vuaizj773768ct2l22f1p6wag"
 # [[params.social]]
 #     name = "Soundcloud"
 #     icon = "fa fa-soundcloud fa-2x"
 #     weight = 11
 #     url = "https://soundcloud.com/emanuelboderash"
-[[params.social]]
-    name = "Letterboxd"
-    icon = "fa fa-film fa-2x"
-    weight = 11
-    url = "https://letterboxd.com/ebodera"
+# [[params.social]]
+#     name = "Letterboxd"
+#     icon = "fa fa-film fa-2x"
+#     weight = 11
+#     url = "https://letterboxd.com/ebodera"
 [[params.social]]
     name = "Lifting Database"
     icon = "fa fa-trophy fa-2x"
