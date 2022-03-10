@@ -3,6 +3,7 @@ title = "@emanuelboderash"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+relativeURLS = true
 
 paginate = 20
 canonifyurls = true
