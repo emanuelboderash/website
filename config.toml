@@ -124,7 +124,7 @@ pygmentscodefencesguesssyntax = true
     name = "Ethereum"
     icon = "fa fa-ethereum fa-2x"
     weight = 14
-    url = "https://futureboi.xyz"
+    url = "https://emanuelboderash.eth.xyz"
 # [[params.social]]
 #     name = "Bitcoin"
 #     icon = "fa fa-bitcoin fa-2x"
