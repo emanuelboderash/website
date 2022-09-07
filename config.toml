@@ -90,21 +90,21 @@ pygmentscodefencesguesssyntax = true
     icon = "fa fa-github fa-2x"
     weight = 8
     url = "https://github.com/emanuelboderash"
-[[params.social]]
-    name = "Notion"
-    icon = "fa fa-cube fa-2x"
-    weight = 9
-    url = "https://emanuelboderash.notion.site/6dd62dd1699c435e86a20bd000dc4619?v=76d37caa61364d11a687924d76ba9a38"
+# [[params.social]]
+#     name = "Notion"
+#     icon = "fa fa-cube fa-2x"
+#     weight = 9
+#     url = "https://emanuelboderash.notion.site/6dd62dd1699c435e86a20bd000dc4619?v=76d37caa61364d11a687924d76ba9a38"
 # [[params.social]]
 #     name = "Cyber"
 #     icon = "fa fa-paint-brush fa-2x"
 #     weight = 10
 #     url = "https://oncyber.io/@0x1eb5f6d2388b2dee3505334e4aeb96728a757b2b"
-[[params.social]]
-    name = "Goodreads"
-    icon = "fa fa-book fa-2x"
-    weight = 11
-    url = "https://www.goodreads.com/emanuelboderash"
+# [[params.social]]
+#     name = "Goodreads"
+#     icon = "fa fa-book fa-2x"
+#     weight = 11
+#     url = "https://www.goodreads.com/emanuelboderash"
 # [[params.social]]
 #     name = "Spotify"
 #     icon = "fa fa-spotify fa-2x"
@@ -115,21 +115,21 @@ pygmentscodefencesguesssyntax = true
 #     icon = "fa fa-soundcloud fa-2x"
 #     weight = 11
 #     url = "https://soundcloud.com/emanuelboderash"
-[[params.social]]
-    name = "Letterboxd"
-    icon = "fa fa-film fa-2x"
-    weight = 11
-    url = "https://letterboxd.com/ebodera"
+# [[params.social]]
+#     name = "Letterboxd"
+#     icon = "fa fa-film fa-2x"
+#     weight = 11
+#     url = "https://letterboxd.com/ebodera"
 [[params.social]]
     name = "Lifting Database"
     icon = "fa fa-trophy fa-2x"
     weight = 12
     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
-[[params.social]]
-    name = "Strike"
-    icon = "fa fa-bitcoin fa-2x"
-    weight = 13
-    url = "https://strike.me/emanuelboderash"
+# [[params.social]]
+#     name = "Strike"
+#     icon = "fa fa-bitcoin fa-2x"
+#     weight = 13
+#     url = "https://strike.me/emanuelboderash"
 [[params.social]]
     name = "Ethereum"
     icon = "fa fa-ethereum fa-2x"
@@ -160,11 +160,11 @@ pygmentscodefencesguesssyntax = true
 #     icon = "fa fa-money fa-2x"
 #     weight = 16
 #     url = "https://venmo.com/emanuelboderash"
-[[params.social]]
-    name = "Cash App"
-    icon = "fa fa-usd fa-2x"
-    weight = 15
-    url = "https://cash.app/$emanuelboderash"
+# [[params.social]]
+#     name = "Cash App"
+#     icon = "fa fa-usd fa-2x"
+#     weight = 15
+#     url = "https://cash.app/$emanuelboderash"
 # [[params.social]]
 #     name = "Patreon"
 #     icon = "fa fa-patreon fa-2x"
