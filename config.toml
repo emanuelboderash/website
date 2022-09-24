@@ -46,19 +46,19 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "https://instagram.com/emanuelboderash.press"
 [[params.social]]
-    name = "Snapchat"
-    icon = "fa fa-snapchat-ghost fa-2x"
-    weight = 3
-    url = "https://snapchat.com/add/emanuelboderash"
-[[params.social]]
     name = "YouTube"
     icon = "fa fa-youtube-play fa-2x"
     weight = 3
     url = "https://www.youtube.com/channel/UCD5BCi98vojb8gD9iMy0Lxw"
 [[params.social]]
+    name = "Snapchat"
+    icon = "fa fa-snapchat-ghost fa-2x"
+    weight = 4
+    url = "https://snapchat.com/add/emanuelboderash"
+[[params.social]]
     name = "Telegram"
     icon = "fa fa-telegram fa-2x"
-    weight = 4
+    weight = 5
     url = "https://t.me/emanuelboderash"
 # [[params.social]]
 #     name = "Discord"
