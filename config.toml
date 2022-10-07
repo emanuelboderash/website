@@ -83,13 +83,8 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium fa-2x"
-    weight = 6
+    weight = 5
     url = "https://medium.com/@emanuelboderash"
-[[params.social]]
-    name = "Substack"
-    icon = "fa fa-bookmark fa-2x"
-    weight = 7
-    url = "https://emanuelboderash.substack.com"
 # [[params.social]]
 #     name = "Github"
 #     icon = "fa fa-github fa-2x"
@@ -100,52 +95,6 @@ pygmentscodefencesguesssyntax = true
 #     icon = "fa fa-cube fa-2x"
 #     weight = 9
 #     url = "https://emanuelboderash.notion.site/6dd62dd1699c435e86a20bd000dc4619?v=76d37caa61364d11a687924d76ba9a38"
-[[params.social]]
-    name = "Patreon"
-    icon = "fa fa-patreon fa-2x"
-    weight = 8
-    url = "https://patreon.com/emanuelboderash"
-[[params.social]]
-    name = "PayPal"
-    icon = "fa fa-paypal fa-2x"
-    weight = 9
-    url = "https://paypal.me/eboderas"
-[[params.social]]
-    name = "Cash App"
-    icon = "fa fa-usd fa-2x"
-    weight = 10
-    url = "https://cash.app/$emanuelboderash"
-# [[params.social]]
-#     name = "Venmo"
-#     icon = "fa fa-money fa-2x"
-#     weight = 16
-#     url = "https://venmo.com/emanuelboderash"
-[[params.social]]
-    name = "Ethereum"
-    icon = "fa fa-ethereum fa-2x"
-    weight = 11
-    url = "https://emanuelboderash.eth.xyz"
-# [[params.social]]
-#     name = "Bitcoin"
-#     icon = "fa fa-bitcoin fa-2x"
-#     weight = 15
-#     url = "/btc/"
-# [[params.social]]
-#     name = "Ethereum"
-#     icon = "fa fa-ethereum fa-2x"
-#     weight = 16
-#     url = "/eth/"
-# [[params.social]]
-#     name = "Monero"
-#     icon = "fa fa-monero fa-2x"
-#     weight = 17
-#     url = "/xmr/"
-# [[params.social]]
-#     name = "Strike"
-#     icon = "fa fa-bitcoin fa-2x"
-#     weight = 13
-#     url = "https://strike.me/emanuelboderash"
-
 # [[params.social]]
 #     name = "Cyber"
 #     icon = "fa fa-paint-brush fa-2x"
@@ -171,11 +120,56 @@ pygmentscodefencesguesssyntax = true
 #     icon = "fa fa-film fa-2x"
 #     weight = 11
 #     url = "https://letterboxd.com/ebodera"
+[[params.social]]
+    name = "Lifting Database"
+    icon = "fa fa-trophy fa-2x"
+    weight = 6
+    url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
+[[params.social]]
+    name = "Patreon"
+    icon = "fa fa-patreon fa-2x"
+    weight = 7
+    url = "https://patreon.com/emanuelboderash"
+[[params.social]]
+    name = "PayPal"
+    icon = "fa fa-paypal fa-2x"
+    weight = 8
+    url = "https://paypal.me/eboderas"
 # [[params.social]]
-#     name = "Lifting Database"
-#     icon = "fa fa-trophy fa-2x"
-#     weight = 6
-#     url = "https://usapl.liftingdatabase.com/lifters-view?id=47258"
+#     name = "Cash App"
+#     icon = "fa fa-usd fa-2x"
+#     weight = 15
+#     url = "https://cash.app/$emanuelboderash"
+# [[params.social]]
+#     name = "Venmo"
+#     icon = "fa fa-money fa-2x"
+#     weight = 16
+#     url = "https://venmo.com/emanuelboderash"
+[[params.social]]
+    name = "Ethereum"
+    icon = "fa fa-ethereum fa-2x"
+    weight = 9
+    url = "https://emanuelboderash.eth.xyz"
+# [[params.social]]
+#     name = "Bitcoin"
+#     icon = "fa fa-bitcoin fa-2x"
+#     weight = 15
+#     url = "/btc/"
+# [[params.social]]
+#     name = "Ethereum"
+#     icon = "fa fa-ethereum fa-2x"
+#     weight = 16
+#     url = "/eth/"
+# [[params.social]]
+#     name = "Monero"
+#     icon = "fa fa-monero fa-2x"
+#     weight = 17
+#     url = "/xmr/"
+# [[params.social]]
+#     name = "Strike"
+#     icon = "fa fa-bitcoin fa-2x"
+#     weight = 13
+#     url = "https://strike.me/emanuelboderash"
 
 # Menu links
 [[menu.main]]
