@@ -83,12 +83,12 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium fa-2x"
-    weight = 5
+    weight = 6
     url = "https://medium.com/@emanuelboderash"
 [[params.social]]
     name = "Substack"
     icon = "fa fa-bookmark fa-2x"
-    weight = 6
+    weight = 7
     url = "https://emanuelboderash.substack.com"
 # [[params.social]]
 #     name = "Github"
@@ -103,17 +103,17 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Patreon"
     icon = "fa fa-patreon fa-2x"
-    weight = 7
+    weight = 8
     url = "https://patreon.com/emanuelboderash"
 [[params.social]]
     name = "PayPal"
     icon = "fa fa-paypal fa-2x"
-    weight = 8
+    weight = 9
     url = "https://paypal.me/eboderas"
 [[params.social]]
     name = "Cash App"
     icon = "fa fa-usd fa-2x"
-    weight = 9
+    weight = 10
     url = "https://cash.app/$emanuelboderash"
 # [[params.social]]
 #     name = "Venmo"
@@ -123,7 +123,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Ethereum"
     icon = "fa fa-ethereum fa-2x"
-    weight = 10
+    weight = 11
     url = "https://emanuelboderash.eth.xyz"
 # [[params.social]]
 #     name = "Bitcoin"
